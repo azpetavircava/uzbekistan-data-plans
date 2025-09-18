@@ -52,3 +52,10 @@ layout: default
   - 流量用超时别慌，发短信`STOP`能锁死超额
 
 　　其实啊，流量卡就像中亚的馕，看着普通却是生存根本。2025年技术再新，不如提前半小时搞定网络来得踏实。下次出发前，不妨试试先发条测试短信——这小动作救过我三次行程。对了，你更愿意为信号稳定多花5美元，还是赌运气碰Beeline的促销？反正我在Khiva夜市的答案，永远是选Ucell。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Uzbekistan SIM 卡购买与激活指南](https://faciylike.github.io/uzbekistan-sim-guides)
